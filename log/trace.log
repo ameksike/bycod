@@ -1,0 +1,35 @@
+Array
+(
+    [0] => C:\xampp\htdocs\dev\bycod\index.php
+    [1] => C:\xampp\htdocs\dev\bycod\lib\bycod\src\server\Bycod.php
+    [2] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\engine\src\server\Engine.php
+    [3] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\event\src\server\Event.php
+    [4] => C:\xampp\htdocs\dev\bycod\cfg\config.php
+    [5] => C:\xampp\htdocs\dev\bycod\cfg\bycod.php
+    [6] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\loader\src\server\Loader.php
+    [7] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\carrier\src\Main.php
+    [8] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\request\src\server\Request.php
+    [9] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\front\src\server\Front.php
+    [10] => C:\xampp\htdocs\dev\bycod\lib\news\src\server\News.php
+    [11] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\lql\lib\customise\lqls\src\Main.php
+    [12] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\lql\src\server\Main.php
+    [13] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\lql\lib\executor\secretary\src\Main.php
+    [14] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\secretary\src\server\Main.php
+    [15] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\secretary\lib\sqlite\src\Main.php
+    [16] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\secretary\src\server\Driver.php
+    [17] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\lql\lib\processor\sql\src\Main.php
+    [18] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\view\src\server\View.php
+    [19] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\notary\src\server\Notary.php
+    [20] => C:\xampp\htdocs\dev\bycod\lib\news\src\server\tpl\debug\news.php
+    [21] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\idiom\src\server\Idiom.php
+    [22] => C:\xampp\htdocs\dev\bycod\lib\main\idiom\es.php
+    [23] => C:\xampp\htdocs\dev\bycod\lib\main\src\server\tpl\debug\index.head.php
+    [24] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\router\src\server\Router.php
+    [25] => C:\xampp\htdocs\dev\bycod\lib\main\src\server\tpl\debug\index.header.php
+    [26] => C:\xampp\htdocs\dev\bycod\lib\news\src\server\tpl\debug\news.item.php
+    [27] => C:\xampp\htdocs\dev\bycod\lib\main\src\server\tpl\debug\index.footer.php
+    [28] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\response\src\server\Response.php
+    [29] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\response\src\server\driver\OutDriver.php
+    [30] => C:\xampp\htdocs\dev\bycod\lib\bycod\lib\response\src\server\driver\OutDriverHTML.php
+)
+
